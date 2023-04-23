@@ -40,7 +40,7 @@ export default function PageIndex({
     <Fadeable leaving={leaving} onLeave={onLeave}>
       <SetTitle title={radarNameShort} />
       <div className="headline-group">
-        <HeroHeadline alt={`Version #${numberOfReleases}`}>
+        <HeroHeadline alt={`Version #1`}>
           {radarName}
         </HeroHeadline>
       </div>
