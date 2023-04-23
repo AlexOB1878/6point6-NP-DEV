@@ -1,7 +1,7 @@
 {
-  "footerFootnote": "AOE is a leading global provider of services for digital transformation and digital business models. AOE relies exclusively on established Enterprise Open Source technologies. This leads to innovative solutions, digital products and portals in agile software projects, and helps build long-lasting, strategic partnerships with our customers.",
+  "footerFootnote": "6point6 is a leading UK provider of services for digital transformation and cyber security services",
   "legalInformationLabel": "Legal Information",
-  "legalInformationLink": "https://www.aoe.com/en/imprint.html",
+  "legalInformationLink": "https://6point6.co.uk/",
   "pageHelp": {
     "headlinePrefix": "How to use the",
     "paragraphs": [
@@ -14,7 +14,7 @@
         ]
       },
       {
-        "headline": "What is the AOE Technology Radar",
+        "headline": "What is the 6point6 Technology Radar",
         "values": [
           "The Tech Radar is an overview of different technologies - from languages, frameworks, tools and patterns to platforms - that we consider \"new or mentionable\". The radar therefore doesn't provide an overview of all established technologies - but it focuses on items that have recently gained in importance or changed."
         ]
@@ -93,32 +93,17 @@
   "searchLabel": "Search",
   "searchPlaceholder": "What are you looking for?",
   "socialLinks": [
+ 
     {
-      "href": "https://www.facebook.com/aoepeople",
-      "iconName": "facebook"
-    },
-    {
-      "href": "https://twitter.com/aoepeople",
-      "iconName": "twitter"
-    },
-    {
-      "href": "https://www.linkedin.com/company/aoe",
+      "href": "https://www.linkedin.com/company/6point6/",
       "iconName": "linkedIn"
     },
     {
-      "href": "https://www.xing.com/company/aoe",
-      "iconName": "xing"
-    },
-    {
-      "href": "https://www.instagram.com/aoepeople",
-      "iconName": "instagram"
-    },
-    {
-      "href": "https://www.youtube.com/user/aoepeople",
+      "href": "https://www.youtube.com/@6point6ltd",
       "iconName": "youtube"
     },
     {
-      "href": "https://github.com/aoepeople",
+      "href": "https://github.com/6point6",
       "iconName": "github"
     }
   ],
