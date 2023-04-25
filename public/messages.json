@@ -1,7 +1,7 @@
 {
-  "footerFootnote": "6point6 is a leading UK provider of services for digital transformation and cyber security services",
+  "footerFootnote": "ENG is a leading UK provider of services for digital transformation and cyber security services",
   "legalInformationLabel": "Legal Information",
-  "legalInformationLink": "https://6point6.co.uk/",
+  "legalInformationLink": "https://ENG.co.uk/",
   "pageHelp": {
     "headlinePrefix": "How to use the",
     "paragraphs": [
@@ -14,7 +14,7 @@
         ]
       },
       {
-        "headline": "What is the 6point6 Technology Radar",
+        "headline": "What is the ENG Technology Radar",
         "values": [
           "The Tech Radar is an overview of different technologies - from languages, frameworks, tools and patterns to platforms - that we consider \"new or mentionable\". The radar therefore doesn't provide an overview of all established technologies - but it focuses on items that have recently gained in importance or changed."
         ]
@@ -95,15 +95,15 @@
   "socialLinks": [
  
     {
-      "href": "https://www.linkedin.com/company/6point6/",
+      "href": "https://www.linkedin.com/",
       "iconName": "linkedIn"
     },
     {
-      "href": "https://www.youtube.com/@6point6ltd",
+      "href": "https://www.youtube.com/",
       "iconName": "youtube"
     },
     {
-      "href": "https://github.com/6point6",
+      "href": "https://github.com/",
       "iconName": "github"
     }
   ],
