@@ -25,7 +25,7 @@ const runCommand = (command: string) =>
       stdio: "inherit",
       shell: true,
       env: {
-        REACT_APP_RADAR_NAME: "6point6 Technology Radar",
+        REACT_APP_RADAR_NAME: "Eng Technology Radar",
         REACT_APP_BUILDHASH: randomBytes(10).toString("hex"),
         GENERATE_SOURCEMAP: "false",
         ...process.env,
