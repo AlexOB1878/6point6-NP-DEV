@@ -21,7 +21,7 @@ export interface ConfigData {
 }
 
 export const radarName =
-  process.env.REACT_APP_RADAR_NAME || "6point6 Technology Radar";
+  process.env.REACT_APP_RADAR_NAME || "Eng Technology Radar";
 export const radarNameShort = radarName;
 
 export const getItemPageNames = (items: Item[]) =>
